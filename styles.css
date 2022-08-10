@@ -384,7 +384,7 @@ MODAL
 }
 
 .modal__overlay--loading {
-  background-color: blue;
+  background-color: #242424;
   position:absolute;
   top:0;
   left:0;
@@ -394,6 +394,7 @@ MODAL
   align-items: center;
   justify-content: center;
   font-size: 80px;
+  z-index: -1;
 }
 
 .fa-spinner{
