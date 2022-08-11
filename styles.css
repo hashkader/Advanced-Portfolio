@@ -600,9 +600,7 @@ footer {
   padding: 6% 0;
 }
 
-.footer__container {
-  margin: -80px 0;
-}
+
 
 .footer__row {
   display: flex;
@@ -695,6 +693,10 @@ SHAPES
 
   .modal__half {
     width: 100%;
+  }
+
+  .footer {
+    margin:80px;
   }
 }
 
